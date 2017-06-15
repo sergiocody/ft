@@ -1,0 +1,19 @@
+.property-item h4, .property-item h4 a {
+   text-transform: none;
+}
+
+.page-head h1.page-title span {
+   text-transform: none;
+}
+
+.listing-layout h4, .listing-layout .property-item h4 a, .property-item h4 .listing-layout a {
+   text-transform: none;
+}
+
+#overview .property-item .price span{
+background-color:#354990;
+}
+
+.page-head div.page-breadcrumbs {
+background-color: #354990;
+}
